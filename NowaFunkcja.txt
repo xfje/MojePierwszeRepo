@@ -1,0 +1,2 @@
+Plain Text
+A plain text editor that allows you to keep notes throughout the day, create a list, write or edit code without worrying about unwanted auto formatting.
